@@ -1,11 +1,11 @@
 ## FDV CHALLENGE
 
-To start project with Yarn:
+#To start project with Yarn:
 
 yarn install
 yarn start
 
-To start project with NPM:
+#To start project with NPM:
 
 npm install
 npm start
