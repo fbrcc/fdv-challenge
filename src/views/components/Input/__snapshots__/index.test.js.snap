@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<input
+  className="sc-bdVaJa jWUjVV"
+  name="name"
+  onChange={[Function]}
+  pattern={undefined}
+  placeholder="Nombre"
+  type="text"
+  value="Fermín Breccia"
+/>
+`;

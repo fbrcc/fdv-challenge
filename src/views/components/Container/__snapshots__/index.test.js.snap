@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="sc-bdVaJa dhSTzW"
+>
+  <h4
+    className="sc-bwzfXH hmJzJp"
+  >
+    Ingrese sus datos
+  </h4>
+</div>
+`;

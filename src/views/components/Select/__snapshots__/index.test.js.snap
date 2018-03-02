@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<select
+  className="sc-bdVaJa lnCdxW"
+  name="country"
+  onChange={[Function]}
+  value={undefined}
+>
+  <option
+    value=""
+  >
+    País
+  </option>
+  <option
+    value="Argentina"
+  >
+    Argentina
+  </option>
+  <option
+    value="Brazil"
+  >
+    Brazil
+  </option>
+</select>
+`;

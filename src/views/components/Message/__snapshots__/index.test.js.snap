@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div>
+  <p
+    className="sc-bdVaJa fOgzJu"
+  >
+    Hola 
+    Fermin
+     de 
+    Argentina
+    . Hoy es día 
+    02
+     del mes 
+    03
+     y tenes 
+    28
+     años.
+  </p>
+</div>
+`;
